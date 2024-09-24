@@ -1,6 +1,6 @@
 import React from "react";
-import Circle from "./Circle";
-import ColoredCircles from "./ColoredCircle";
+// import Circle from "./Circle";
+import ColoredCircles from "./ColoredCircle2/ColoredCircle";
 
 function App() {
   return (
